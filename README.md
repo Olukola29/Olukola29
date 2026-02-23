@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:oluseyi.olukola@grainrainholdings.com">
+  <a href="/cdn-cgi/l/email-protection#1d7271686e786474337271687672717c5d7a6f7c74736f7c74737572717974737a6e337e7270">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
@@ -52,10 +52,11 @@ My dissertation centres on **SmartTutor** — an AI tutoring system that solves 
 **Results:** 100% pedagogical appropriateness vs. 57–63% for baseline methods. The difference between a system that educates and one that performs education.
 
 ### 📄 Selected Publications & Work
+- **Pedagogical Safety in Educational Reinforcement Learning: Formalizing and Detecting Reward Hacking in AI Tutoring Systems** *(Under review, IJAIED)*
 - **MC-CPO** — Mastery-Conditioned Constrained Policy Optimization *(Under review, IEEE Transactions on Learning Technologies)*
 - **DANTE.v2** — Insider threat detection system *(Accepted, CATA 2026, Honolulu)*
 - **AMDS** — Attack-Aware Multi-Stage Defense System for network intrusion detection — 94.2% AUC
-- Peer reviewer, **Springer Nature journals**
+- Peer reviewer, **Springer Nature journals** & **IEEE IJCNN**
 
 ---
 
@@ -113,6 +114,4 @@ I co-found companies alongside my research. Not as a hobby — as a conviction.
 
 <p align="center">
   <sub>
-    <em>Researching AI safety. Building companies. Teaching the next generation. Repeat.</em>
-  </sub>
-</p>
+    <em>Researching AI safety. Building companie
