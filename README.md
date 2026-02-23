@@ -18,6 +18,10 @@
   <a href="https://grainrainholdings.com">
     <img src="https://img.shields.io/badge/Grain%20Rain%20Holdings-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
+  &nbsp;
+  <a href="https://afritechmedan.com">
+    <img src="https://img.shields.io/badge/Afritech%20Medalytics-1a8c4e?style=for-the-badge&logo=leaflet&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -76,10 +80,10 @@ I co-found companies alongside my research. Not as a hobby — as a conviction.
 
 | Venture | Role | What We Do |
 |---------|------|------------|
+| **[Afritech Medalytics](https://afritechmedan.com)** | Founder | Technology consulting for African markets |
 | **[Grain Rain Holdings](https://grainrainholdings.com)** | Co-Founder | UK holding company backing purposeful technology ventures across emerging markets |
-| **[Harambee](https://myharambee.com)** | Builder | Community platform for collective action and shared goals |
+| &nbsp;&nbsp;&nbsp;↳ **[Harambee](https://myharambee.com)** | Builder | Community platform for collective action and shared goals |
 | **[Data Intell](https://dataintell.com)** | Co-Founder | Responsible AI consultancy — we organized the Data Intell Summit '25 with 100+ global attendees and 92.3% satisfaction |
-| **Afritech Medalytics** | Founder | Technology consulting for African markets |
 
 ---
 
