@@ -40,7 +40,7 @@ I build companies when I'm not writing papers. I write papers when I'm not build
 
 ## 🔬 Research
 
-I am a **PhD Candidate at the University of Southern Mississippi**, working in the **Cyber Innovation Lab** under Professor Nick Rahimi.
+I am a **PhD Candidate at the University of Southern Mississippi**, working in the **Cyber Innovation Lab**
 
 My dissertation centres on **SmartTutor** — an AI tutoring system that solves the reward hacking problem in educational reinforcement learning through architectural constraints combining:
 
